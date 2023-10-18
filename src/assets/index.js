@@ -1,0 +1,23 @@
+export { default as ava1 } from './sidebar/ava-1.svg'
+export { default as ava2 } from './sidebar/ava-2.svg'
+export { default as ava3 } from './sidebar/ava-3.svg'
+
+export { default as community } from './sidebar/community.svg'
+export { default as help } from './sidebar/help.svg'
+export { default as home } from './sidebar/home.svg'
+export { default as notifications } from './sidebar/notifications.svg'
+export { default as play } from './sidebar/play.svg'
+export { default as ava } from './sidebar/top-ava.svg'
+export { default as arrow } from './arrow.svg'
+export { default as coins } from './card/coins.png'
+export { default as education } from './card/education.svg'
+
+export { default as new1 } from './card/new1.png'
+export { default as new2 } from './card/new2.png'
+export { default as new3 } from './card/new3.png'
+export { default as new4 } from './card/new4.png'
+
+export { default as trending1 } from './card/trending1.png'
+export { default as trending2 } from './card/trending2.png'
+export { default as trending3 } from './card/trending3.png'
+export { default as trending4 } from './card/trending4.png'
